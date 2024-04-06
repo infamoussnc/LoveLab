@@ -1,6 +1,6 @@
-# love_lab
+# LoveLab
 
-A new Flutter project.
+The next-gen Dating App programmed in Flutter.
 
 ## Getting Started
 
