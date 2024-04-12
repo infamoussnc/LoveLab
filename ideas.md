@@ -1,5 +1,7 @@
 ## Ideensammlung
 
+- Figma für App Design
+
 # Aufbau: 
 
 Lokale Nutzer finden mit einer kleinen Mapp und Anzeige wie weit man voneinander entfernt ist (ähnlich Loovoo)
